@@ -1,0 +1,1 @@
+console.log("Hello, this is javascript 0.1")
